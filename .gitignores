@@ -1,1 +1,43 @@
 node_modules
+judgement/dist
+judgement/dist-server
+judgement/tmp
+judgement/out-tsc
+
+# dependencies
+judgement/node_modules
+
+# IDEs and editors
+judgement/.idea
+judgement/.project
+judgement/.classpath
+judgement/.c9/
+judgement/*.launch
+judgement/.settings/
+judgement/*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+judgement/.sass-cache
+judgement/connect.lock
+judgement/coverage
+judgement/libpeerconnection.log
+judgement/npm-debug.log
+npm-debug.log
+judgement/testem.log
+testem.log
+judgement/typings
+
+# e2e
+judgement/e2e/*.js
+judgement/e2e/*.map
+
+# System Files
+judgement/.DS_Store
+judgement/Thumbs.db
